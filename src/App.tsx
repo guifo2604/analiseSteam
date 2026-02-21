@@ -46,7 +46,7 @@ function App() {
 
       <footer className="text-center py-8 bg-[#171a21] mt-auto border-t border-white/5">
         <p className="text-gray-400 text-sm">
-          © 2026 - Avaliação Acadêmica baseada na ISO/IEC 25010
+          © 2026 - Produzido por Fonseca, Guilherme
         </p>
       </footer>
       
