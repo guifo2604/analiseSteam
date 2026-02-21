@@ -16,7 +16,7 @@ function App() {
       
       <header className="py-6 px-5 text-center bg-[#171a21]/80 backdrop-blur-md sticky top-0 z-50 border-b border-white/10 shadow-lg">
         <h1 className="text-2xl md:text-3xl font-bold tracking-wider mb-4 flex items-center justify-center gap-3">
-          <span className="bg-[#66c0f4] text-black w-8 h-8 rounded-full flex items-center justify-center text-sm">S</span>
+          <img src="../src/assets/pngegg.png" className='w-50 h-10'/>
           Análise Steam
         </h1>
         
